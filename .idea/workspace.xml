@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58cd6c27-3f2c-4fbf-a299-fb949e170f4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ilvarBeeline.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/OfficinaSerifBookC.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/.idea/bee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/assets/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/assets/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/assets/images/loveIT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/assets/images/socks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socks/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/20.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/20.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/blueBeeline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/blueBub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/btn-game-280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/choose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/cityBG.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/get__prize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/infin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/internet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/loveIT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/man.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/man2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/msk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ok.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ok.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/orangeBG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/present.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/prize__mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/snow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/spb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/youtube-music.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commponents/DiscontForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commponents/Forms/RegisterForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commponents/LoveIt.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commponents/MyFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commponents/MyHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commponents/PrizesBlock.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commponents/ShareModal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commponents/TestHead.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commponents/TiketForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Discont.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Instagram.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Sale.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/TestPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/.idea/bee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/assets/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/assets/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/assets/images/loveIT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/assets/images/yo-yo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yo-yo/index.pug" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X6ncz2v8kurFVGUh5vbvcNxwNB" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58cd6c27-3f2c-4fbf-a299-fb949e170f4f" name="Default Changelist" comment="" />
+      <created>1580375494526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580375494526</updated>
+      <workItem from="1580375496117" duration="116000" />
+      <workItem from="1580375619972" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="50" key="CommitChangelistDialog2" timestamp="1580375631790">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="303" y="50" key="CommitChangelistDialog2/0.0.1440.900/-249.-1080.1920.1080@0.0.1440.900" timestamp="1580375631790" />
+  </component>
+</project>
